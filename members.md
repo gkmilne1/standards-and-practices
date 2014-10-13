@@ -119,6 +119,7 @@ Format:
 | Felipe B Coelho | [feliupe](https://github.com/feliupe) | Computer Science undergrad. Basic: C, Java, HTML/CSS/JS. Looking for: Python, Ruby, C++. |
 | Frank Harvey | [superking84](https://github.com/superking84) | Majority of my experinece is in Python, however I have some basic web dev experience (JavaScript, HTML, CSS).  My real goal is not necessarily to master any given language, but rather to become a well-rounded programmer. |
 | Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) | Experience with Python and eager to learn anything, especially about contributing to FOSS.|
+| Gemma Milne | [gkmilne1](https://github.com/gkmilne1) | Basic knowledge of Ruby, HTML, CSS, JavaScript - eager to learn more. |
 | Geoff Cowan | [tomatosource](https://github.com/tomatosource) | Currrently 3rd year Soft Eng student. Basic python, java, C, JS and haskell skills. Looking to get some OSS project experience. |
 | George Rivera | [GeoRivera](https://github.com/GeoRivera) | Some basic knowledge of Java, PHP, SQL, JavaScript, HTML and CSS. Don't quite know why but I just fell in love with JavaScript. |
 | George N | [Tiroth](https://github.com/Tiroth) | Learning Python. Some experience with C, Javascript, HTML/CSS, PHP. |
